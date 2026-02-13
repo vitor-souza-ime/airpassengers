@@ -129,11 +129,3 @@ Professor e Pesquisador
   * Testes de estacionariedade (ADF)
   * Comparação com outros modelos (ETS, Prophet, etc.)
 
----
-
-Se desejar, posso gerar também:
-
-* 📄 Versão acadêmica do README
-* 🧪 Versão com estrutura para publicação científica
-* 🐳 Dockerfile para execução reprodutível
-* 📊 Versão com notebook Jupyter
